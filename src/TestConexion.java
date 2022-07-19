@@ -7,6 +7,7 @@ public class TestConexion {
 
 	public static void main(String[] args) {
 
+		System.out.println("prueba");
 Conexion conexion = new Conexion();
 Connection cn =null;
 Statement stm = null;
